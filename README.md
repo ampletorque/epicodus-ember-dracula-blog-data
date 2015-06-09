@@ -1,8 +1,8 @@
-## APP NAME
+## Dracula's Blog
 
 <a href="APP LINK IF APPLICABLE" target="#"><APP LINK NAME></a>
 
-By Ian MacDonald (<a href="https://github.com/matchbookmac" target="#">GitHub</a>)
+By Kim Dang (<a href="https://github.com/kimdangg" target="#">GitHub</a>) & Ian MacDonald (<a href="https://github.com/matchbookmac" target="#">GitHub</a>)
 
 @ Epicodus Programming School, Portland, OR
 
@@ -10,30 +10,36 @@ GNU General Public License, version 3 (see below). Copyright (c) 2015 Ian C. Mac
 
 ### Description
 
-**APP NAME**
+**Dracula's Blog**
 
-<DESCRIPTION>
+A blogging app made through treehouse to practice EmberJS.
 
 ### Author(s)
 
+Kim Dang
 Ian MacDonald
 
 ### Setup
 
-This app was written in `JavaScript`, `HTML`, and `JQuery`.
+This app was written in `JavaScript`, `HTML`,`JQuery`, and 'EmberJS'.
 
 Clone this repo with
 ```console
-> git clone https://github.com/matchbookmac/<REPO NAME>.git
+> git clone https://github.com/kimdangg/<dracula-blog-js>.git
 ```
 
 Start App:
 
-Navigate to your favorite browser, enter the file > open dialog, open the `*.html*` file in the root directory of the project folder.
+Go to the dracula's blog directory in the terminal. Enter in the command:
+```
+$ python -m SimpleHTTPServer
+```
+
+Go to 'localhost:8000' from your browser. The default port number should be 8000.
 
 
 ### License ###
-Copyright  (C)  2015  Ian C. MacDonald
+Copyright  (C)  2015
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
