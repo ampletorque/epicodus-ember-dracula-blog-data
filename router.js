@@ -5,4 +5,5 @@ Blogger.Router.map(function() {
     this.resource('sonar');
     this.resource('email');    
   });
+  this.resource('recent-comments');
 });
