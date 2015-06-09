@@ -1,7 +1,7 @@
 <h1>Dracula's Blog</h1>
 
 <ul>
-  <li>Post 1</li>
-  <li>Post 2</li>
-  <li>Post 3</li>
+  {{#each post in posts}}
+    <li>{{title}}</li>
+  {{/each}}
 </ul>
