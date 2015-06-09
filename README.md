@@ -6,7 +6,7 @@ By Kim Dang (<a href="https://github.com/kimdangg" target="#">GitHub</a>) & Ian 
 
 @ Epicodus Programming School, Portland, OR
 
-GNU General Public License, version 3 (see below). Copyright (c) 2015 Ian C. MacDonald.
+GNU General Public License, version 3 (see below). Copyright (c) 2015.
 
 ### Description
 
@@ -16,7 +16,7 @@ A blogging app made through treehouse to practice EmberJS.
 
 ### Author(s)
 
-Kim Dang
+Kim Dang &
 Ian MacDonald
 
 ### Setup
@@ -30,7 +30,7 @@ Clone this repo with
 
 Start App:
 
-Go to the dracula's blog directory in the terminal. Enter in the command:
+Go to the dracula's blog directory in the terminal. Enter in the command to start up the server:
 ```
 $ python -m SimpleHTTPServer
 ```
