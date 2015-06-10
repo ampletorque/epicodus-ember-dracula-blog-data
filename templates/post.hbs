@@ -23,7 +23,11 @@
 {{/if}}
 
 <h3>Comments</h3>
-
 <ul>
-
+  {{#each comments}}
+    <p>{{text}}</p>
+  {{/each}}
 </ul>
+
+<p>{{#link-to 'new-comment' this class="btn btn-default"}}New Comment{{/link-to}}</p>
+{{outlet}}
